@@ -1,0 +1,8 @@
+﻿proje/data/raw/
+proje/data/processed/
+proje/notebooks/data/processed/
+*.tif
+*.tiff
+*.nc
+*.zip
+.ipynb_checkpoints/

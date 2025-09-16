@@ -1,0 +1,246 @@
+{
+  "location": {
+    "lat": 39.401066669083654,
+    "lon": 35.85977717718739,
+    "maps_camera": "https://www.google.com/maps/@39.401067,35.859777,12z",
+    "maps_query": "https://www.google.com/maps?q=39.401067,35.859777"
+  },
+  "irrigation_mode": "rainfed",
+  "monthly": {
+    "T2M": [
+      -2.76,
+      -0.82,
+      3.09,
+      7.57,
+      12.56,
+      17.08,
+      20.33,
+      20.88,
+      16.82,
+      11.07,
+      4.12,
+      -0.79
+    ],
+    "T2M_MAX": [
+      12.19,
+      16.86,
+      22.9,
+      26.61,
+      30.65,
+      34.01,
+      38.5,
+      38.47,
+      35.56,
+      28.26,
+      21.63,
+      17.68
+    ],
+    "T2M_MIN": [
+      -22.11,
+      -23.2,
+      -16.26,
+      -8.74,
+      -3.06,
+      2.13,
+      4.92,
+      5.13,
+      -0.49,
+      -8.0,
+      -16.94,
+      -24.18
+    ],
+    "PRECTOTCORR": [
+      1.63,
+      1.33,
+      1.62,
+      1.46,
+      1.82,
+      1.25,
+      0.4,
+      0.24,
+      0.59,
+      0.95,
+      1.29,
+      1.42
+    ],
+    "ALLSKY_SFC_SW_DWN": [
+      7.36,
+      10.97,
+      14.42,
+      19.08,
+      22.89,
+      26.56,
+      27.66,
+      25.29,
+      19.88,
+      13.49,
+      9.09,
+      6.53
+    ],
+    "RH2M": [
+      85.07,
+      80.85,
+      74.74,
+      69.17,
+      66.32,
+      59.59,
+      52.94,
+      50.68,
+      51.32,
+      60.55,
+      70.67,
+      80.46
+    ],
+    "WS2M": [
+      3.04,
+      3.17,
+      3.23,
+      2.71,
+      2.34,
+      2.56,
+      3.14,
+      3.14,
+      2.56,
+      2.47,
+      2.47,
+      2.71
+    ]
+  },
+  "elevation_m": 1824.0,
+  "night_light": 0.0,
+  "results_sorted": [
+    {
+      "crop": "Buğday (kış)",
+      "score": 0.0,
+      "detail": {
+        "gdd": 862.03,
+        "gdd_score": 0.3945277777777777,
+        "p_sum_mm": 387.88,
+        "et0_sum_mm": 2478.9467009011464,
+        "etc_sum_mm": 2354.999365856089,
+        "water_ratio": 0.16470492757818556,
+        "water_score": 0.0,
+        "season_tmax": 34.01,
+        "heat_score": 0.9990000000000002,
+        "season_tmin": -24.18,
+        "frost_score": 0.0,
+        "altitude_m": 1824.0,
+        "alt_score": 0.44
+      }
+    },
+    {
+      "crop": "Mısır (dane)",
+      "score": 0.0,
+      "detail": {
+        "gdd": 1153.87,
+        "gdd_score": 0.4038958333333331,
+        "p_sum_mm": 175.26,
+        "et0_sum_mm": 3084.530639477134,
+        "etc_sum_mm": 3547.210235398704,
+        "water_ratio": 0.04940784119616775,
+        "water_score": 0.0,
+        "season_tmax": 38.5,
+        "heat_score": 0.75,
+        "season_tmin": -8.74,
+        "frost_score": 0.0,
+        "altitude_m": 1824.0,
+        "alt_score": 0.0
+      }
+    },
+    {
+      "crop": "Ayçiçeği",
+      "score": 0.0,
+      "detail": {
+        "gdd": 1812.9699999999998,
+        "gdd_score": 0.3339821428571432,
+        "p_sum_mm": 175.26,
+        "et0_sum_mm": 3084.530639477134,
+        "etc_sum_mm": 3084.530639477134,
+        "water_ratio": 0.05681901737559291,
+        "water_score": 0.0,
+        "season_tmax": 38.5,
+        "heat_score": 0.65,
+        "season_tmin": -8.74,
+        "frost_score": 0.0,
+        "altitude_m": 1824.0,
+        "alt_score": 0.0
+      }
+    },
+    {
+      "crop": "Domates",
+      "score": 0.0,
+      "detail": {
+        "gdd": 1153.87,
+        "gdd_score": 0.7473095238095235,
+        "p_sum_mm": 131.46,
+        "et0_sum_mm": 2722.012531915544,
+        "etc_sum_mm": 2994.213785107099,
+        "water_ratio": 0.04390468063899381,
+        "water_score": 0.0,
+        "season_tmax": 38.5,
+        "heat_score": 0.75,
+        "season_tmin": -3.06,
+        "frost_score": 0.0,
+        "altitude_m": 1824.0,
+        "alt_score": 0.0
+      }
+    },
+    {
+      "crop": "Biber",
+      "score": 0.0,
+      "detail": {
+        "gdd": 1153.87,
+        "gdd_score": 0.9586410256410254,
+        "p_sum_mm": 131.46,
+        "et0_sum_mm": 2722.012531915544,
+        "etc_sum_mm": 2994.213785107099,
+        "water_ratio": 0.04390468063899381,
+        "water_score": 0.0,
+        "season_tmax": 38.5,
+        "heat_score": 0.75,
+        "season_tmin": -3.06,
+        "frost_score": 0.0,
+        "altitude_m": 1824.0,
+        "alt_score": 0.0
+      }
+    },
+    {
+      "crop": "Bağ (üzüm)",
+      "score": 0.0,
+      "detail": {
+        "gdd": 1153.87,
+        "gdd_score": 0.4038958333333331,
+        "p_sum_mm": 175.26,
+        "et0_sum_mm": 3084.530639477134,
+        "etc_sum_mm": 2776.0775755294208,
+        "water_ratio": 0.06313224152843656,
+        "water_score": 0.0,
+        "season_tmax": 38.5,
+        "heat_score": 0.95,
+        "season_tmin": -8.74,
+        "frost_score": 0.0,
+        "altitude_m": 1824.0,
+        "alt_score": 0.0
+      }
+    },
+    {
+      "crop": "Zeytin",
+      "score": 0.0,
+      "detail": {
+        "gdd": 847.8699999999999,
+        "gdd_score": 0.0,
+        "p_sum_mm": 293.63,
+        "et0_sum_mm": 3783.344682522341,
+        "etc_sum_mm": 2648.3412777656386,
+        "water_ratio": 0.1108731727535247,
+        "water_score": 0.0,
+        "season_tmax": 38.5,
+        "heat_score": 1.0,
+        "season_tmin": -16.94,
+        "frost_score": 0.0,
+        "altitude_m": 1824.0,
+        "alt_score": 0.0
+      }
+    }
+  ]
+}
